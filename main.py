@@ -1,5 +1,3 @@
-from frequency_of_characters_in_a_string import character_frequency
+from number_is_even_or_odd import is_even_or_odd
 
-
-frequency = character_frequency("Soton")
-print(frequency)
+is_even_or_odd(40)
