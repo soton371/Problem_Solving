@@ -1,3 +1,3 @@
-from number_is_even_or_odd import is_even_or_odd
+from find_single_number import find_single_number
 
-is_even_or_odd(40)
+find_single_number()
