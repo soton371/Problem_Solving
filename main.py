@@ -1,3 +1,3 @@
-from find_single_number import find_single_number
+from swap_two_number import swap
 
-find_single_number()
+swap(num1=5, num2=10)
